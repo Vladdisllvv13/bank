@@ -1,0 +1,15 @@
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\bin\Debug\DepositCalculator.exe.config
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\bin\Debug\DepositCalculator.exe
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\bin\Debug\DepositCalculator.pdb
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\App.g.cs
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator_MarkupCompile.cache
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator_MarkupCompile.lref
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\MainWindow.baml
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator.g.resources
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator.Properties.Resources.resources
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator.csproj.GenerateResource.cache
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator.exe
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator.pdb
+C:\Users\pr-20.101-ov\source\repos\BankAPP\DepositCalculator\obj\Debug\DepositCalculator.csproj.AssemblyReference.cache

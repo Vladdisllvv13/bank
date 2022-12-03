@@ -1,0 +1,15 @@
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\bin\Debug\BankAPP.exe.config
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\bin\Debug\BankAPP.exe
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\bin\Debug\BankAPP.pdb
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP.csproj.AssemblyReference.cache
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\MainWindow.g.cs
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\App.g.cs
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP_MarkupCompile.cache
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP_MarkupCompile.lref
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\MainWindow.baml
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP.g.resources
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP.Properties.Resources.resources
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP.csproj.GenerateResource.cache
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP.csproj.CoreCompileInputs.cache
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP.exe
+C:\Users\pr-20.101-ov\source\repos\BankAPP\BankAPP\obj\Debug\BankAPP.pdb
