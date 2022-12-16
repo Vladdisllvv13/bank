@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\BankAPP\Autorization\obj\Debug\Autorization.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BankAPP\Autorization\obj\Debug\Autorization.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\BankAPP\Autorization\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\BankAPP\Autorization\obj\Debug\App.g.cs
+C:\Users\User\Desktop\BankAPP\Autorization\obj\Debug\Autorization_MarkupCompile.cache
+C:\Users\User\Desktop\BankAPP\Autorization\obj\Debug\Autorization_MarkupCompile.lref

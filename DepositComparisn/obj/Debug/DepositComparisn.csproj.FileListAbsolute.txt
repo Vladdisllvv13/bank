@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\BankAPP\DepositComparisn\bin\Debug\DepositComparisn.exe.config
+C:\Users\User\Desktop\BankAPP\DepositComparisn\bin\Debug\DepositComparisn.exe
+C:\Users\User\Desktop\BankAPP\DepositComparisn\bin\Debug\DepositComparisn.pdb
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\App.g.cs
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn_MarkupCompile.cache
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn_MarkupCompile.lref
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.g.resources
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.Properties.Resources.resources
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.exe
+C:\Users\User\Desktop\BankAPP\DepositComparisn\obj\Debug\DepositComparisn.pdb

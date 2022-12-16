@@ -24,5 +24,12 @@ namespace BankAPP
         {
             InitializeComponent();
         }
+
+
+        private void btn_calculateincome_Click(object sender, RoutedEventArgs e)
+        {
+            DepositCalc calc = new DepositCalc();
+            calc.ShowDialog();
+        }
     }
 }
